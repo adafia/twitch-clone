@@ -1,4 +1,4 @@
-# twitch-clone
+# Twitch-clone
 This is a simple react clone of twitch. The purpose of this project is to help me solidify the concepts of react and redux
 
 Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer's Browser
@@ -20,3 +20,10 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
  - Redux-Thunk
  - React-Router
  - Google OAuth
+
+# React Components                  Paths
+ - index Page (StreamList)        | '/'
+ - Show Stream (StreamShow)       | '/streams/show'
+ - Create Stream (StreamCreate)   | '/streams/new'
+ - Edit Stream (StreamEdit)       | '/streams/edit'
+ - Delete Stream (StreamDelete)   | '/streams/delete'
