@@ -21,9 +21,14 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
  - React-Router
  - Google OAuth
 
-# React Components                  Paths
- - index Page (StreamList)        | '/'
- - Show Stream (StreamShow)       | '/streams/show'
- - Create Stream (StreamCreate)   | '/streams/new'
- - Edit Stream (StreamEdit)       | '/streams/edit'
- - Delete Stream (StreamDelete)   | '/streams/delete'
+# Streams Components
+ - index Page (StreamList)        
+    `'/'`
+ - Show Stream (StreamShow)       
+    `'/streams/show'`
+ - Create Stream (StreamCreate)   
+    `'/streams/new'`
+ - Edit Stream (StreamEdit)       
+    `'/streams/edit'`
+ - Delete Stream (StreamDelete)   
+    `'/streams/delete'`
