@@ -15,11 +15,12 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
 
 # Dependencies
 > Tools and Libraries used
- - React
- - React-Redux
- - Redux-Thunk
- - React-Router
- - Google OAuth
+ - [React](https://reactjs.org/)
+ - [React-Redux](https://react-redux.js.org/)
+ - [Redux-Thunk](https://www.npmjs.com/package/redux-thunk)
+ - [React-Router-Dom](https://www.npmjs.com/package/react-router-dom)
+ - [Google OAuth](https://support.google.com/a/answer/162106?hl=en)
+ - [Redux-Form](https://redux-form.com/8.3.0/)
 
 # Streams Components
  - index Page (StreamList)        
