@@ -30,10 +30,10 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
  - index Page (StreamList)        
     `'/'`
  - Show Stream (StreamShow)       
-    `'/streams/show'`
+    `'/streams/:id'`
  - Create Stream (StreamCreate)   
     `'/streams/new'`
  - Edit Stream (StreamEdit)       
-    `'/streams/edit'`
+    `'/streams/edit/:id'`
  - Delete Stream (StreamDelete)   
-    `'/streams/delete'`
+    `'/streams/delete/:id'`
