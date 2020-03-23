@@ -21,6 +21,8 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
  - [React-Router-Dom](https://www.npmjs.com/package/react-router-dom)
  - [Google OAuth](https://support.google.com/a/answer/162106?hl=en)
  - [Redux-Form](https://redux-form.com/8.3.0/)
+ - [Json-server](https://www.npmjs.com/package/json-server)
+ 
 
 # Streams Components
  - index Page (StreamList)        
