@@ -23,6 +23,7 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
  - [Redux-Form](https://redux-form.com/8.3.0/)
  - [Json-server](https://www.npmjs.com/package/json-server)
  - [Axios](https://www.npmjs.com/package/axios)
+ - [Lodash](https://lodash.com/)
  
 
 # Streams Components
