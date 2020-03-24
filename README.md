@@ -25,6 +25,7 @@ Open Broadcast Software => Real Time Messaging Protocol (RTMP) server => Viewer'
  - [Axios](https://www.npmjs.com/package/axios)
  - [Lodash](https://lodash.com/)
  - [RTMP server](https://github.com/illuspas/Node-Media-Server)
+ - [flv.js](https://www.npmjs.com/package/flv.js)
  
 
 # Streams Components
